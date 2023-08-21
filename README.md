@@ -66,7 +66,7 @@ javac Client.java
 
 ## License
 
-This project is licensed under [Apache License 2.0]([https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html](https://github.com/hyperFounder/MusicDB/blob/main/LICENSE)).
+This project is licensed under [Apache License 2.0]([https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html](https://github.com/hyperFounder/MusicDB/blob/main/LICENSE).
 
 Thank you for using MusicDB! We hope it helps you effectively manage your music collection and perform various operations on your music database. If you have any questions or need assistance, please don't hesitate to reach out to us.
 
