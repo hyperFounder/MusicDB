@@ -1,4 +1,4 @@
-# MusicDB
+# MusicDB 
 
 MusicDB is a personal project aimed at learning about multithreading, JDBC driver, and database management. The Java-based application allows users to perform various operations on a music database, including insert, delete, update, create table, view creation, and function creation. The entire system is operated via the command line interface (CLI), making it easy to use and access.
 
